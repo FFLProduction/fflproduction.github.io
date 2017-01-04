@@ -1,0 +1,9 @@
+DE files
+*.idea
+
+# OS files
+*.DS_Store
+desktop.ini
+
+# Software-generated files & folders
+*~
