@@ -51,12 +51,11 @@ header#index ul li a{
 #realisations .container, #association .container {text-align:center}
 #realisations article {
 	display:inline-block;
-	float:left;
 	margin: 15px;
-	width: 250px;
 }
-
-#realisations figure.panel-collapse {float:left;width:70%;margin-left:15%}
+#realisations .panel{border:none;background:transparent;box-shadow:none}
+#realisations article .panel-heading{float:left;padding-top:0}
+#realisations article .panel-collapse{float:right;width:70%}
 
 #association .container {text-align:center}
 #association h2{
